@@ -1,13 +1,24 @@
-Cześć, jestem Dominik – zapraszam do mojego portfolio! 😊
+# Cześć! 👋
 
-Znajdziesz tutaj przykłady mojej pracy jako tester manualny oprogramowania. 
-Na co dzień korzystam z narzędzi takich jak Confluence, Jira, GitLab, SQL i Chrome DevTools. Oto, co przygotowałem w portfolio:
+Jestem Dominik – tester manualny oprogramowania z doświadczeniem w tworzeniu przypadków i scenariuszy testowych, dokumentacji technicznej oraz zarządzaniu zgłoszeniami. Zapraszam do mojego portfolio!
 
-Przypadki i scenariusze testowe – tworzę je i dokumentuję w Confluence, wspierając zespoły w identyfikacji i rozwiązywaniu problemów.
-Zgłaszanie błędów – zarządzam nimi w Jira, dokładnie dokumentując oraz monitorując postępy ich naprawy.
-Dokumentacja techniczna – w portfolio znajdziesz przykład szczegółowej instrukcji obsługi oprogramowania, którą opracowałem, dbając o jej przejrzystość i funkcjonalność.
-SQL – analizuję bazy danych i tworzę zapytania z wykorzystaniem narzędzi takich jak PostgreSQL i DBeaver.
+## Co znajdziesz w moim portfolio?
 
-Jestem w trakcie rozwijania umiejętności w automatyzacji testów, szczególnie w obszarze Cypress i JavaScript, z zamiarem dalszego poszerzania kompetencji w tym kierunku.
+- **Przypadki i scenariusze testowe** – opracowane w Confluence.
+- **Dokumentację techniczną** – przykład instrukcji obsługi oprogramowania.
+- **Zgłoszenia błędów** – zarządzane przy użyciu Jira.
 
-Zapraszam do zapoznania się z moimi projektami i dokumentacją! 💻
+## Trochę o mnie 🧑‍💻
+
+Obecnie pracuję jako tester manualny. Wykorzystuję GitLab do organizacji przypadków testowych i stale rozwijam swoje umiejętności w automatyzacji testów. Planuję w przyszłości rozszerzyć swoje kompetencje w zakresie testów E2E z użyciem narzędzi takich jak Cypress.
+
+## Narzędzia, które znam i używam 🔧
+
+- **Confluence** – do tworzenia dokumentacji.
+- **Jira** – do zarządzania zgłoszeniami.
+- **GitLab** – do organizacji przypadków testowych.
+- **SQL** – podstawowa znajomość PostgreSQL.
+- **Cypress** – w trakcie nauki automatyzacji.
+- **Postman** – podstawowa wiedza o testowaniu API (obecnie wykluczone z portfolio).
+
+## Zapraszam do zapoznania się z moimi pracami! 🚀
