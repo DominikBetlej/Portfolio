@@ -1,0 +1,83 @@
+-- 1. Znajdź wszystkich klientów z Niemiec
+SELECT CustomerName, City 
+FROM Customers 
+WHERE Country = 'Germany';
+
+-- 2. Wyszukaj produkty zaczynające się od "Ch"
+SELECT ProductName 
+FROM Products 
+WHERE ProductName LIKE 'Ch%';
+
+-- 3. Posortuj klientów według kraju alfabetycznie
+SELECT CustomerName, Country 
+FROM Customers 
+ORDER BY Country ASC;
+
+-- 4. Znajdź minimalną i maksymalną cenę produktu
+SELECT MIN(UnitPrice) AS MinPrice, MAX(UnitPrice) AS MaxPrice 
+FROM Products;
+
+-- 5. Dodaj nowego pracownika
+INSERT INTO Employees (FirstName, LastName, Title, City) 
+VALUES ('Anna', 'Smith', 'Sales Representative', 'London');
+
+-- 6. Zaktualizuj miasto wysyłki dla zamówienia o ID 10248
+UPDATE Orders 
+SET ShipCity = 'Berlin' 
+WHERE OrderID = 10248;
+
+-- 7. Usuń produkt o ID 22
+DELETE FROM Products 
+WHERE ProductID = 22;
+
+-- 8. Policz liczbę zamówień z USA
+SELECT COUNT(*) AS TotalOrders 
+FROM Orders 
+WHERE ShipCountry = 'USA';
+
+-- 9. Znajdź średnią cenę produktów w każdej kategorii
+SELECT CategoryID, AVG(UnitPrice) AS AveragePrice 
+FROM Products 
+GROUP BY CategoryID;
+
+-- 10. Wyświetl produkty w cenach między 10 a 20
+SELECT ProductName, UnitPrice 
+FROM Products 
+WHERE UnitPrice BETWEEN 10 AND 20;
+
+-- 11. Znajdź sumę ilości dla każdego produktu o ID 1, 2 lub 3
+SELECT ProductID, SUM(Quantity) AS TotalQuantity 
+FROM OrderDetails 
+WHERE ProductID IN (1, 2, 3) 
+GROUP BY ProductID;
+
+-- 12. Znajdź klientów, którzy złożyli więcej niż 5 zamówień
+SELECT CustomerID, COUNT(OrderID) AS TotalOrders 
+FROM Orders 
+GROUP BY CustomerID 
+HAVING COUNT(OrderID) > 5;
+
+-- 13. Wyświetl nazwę klienta i liczbę zamówień z użyciem JOIN
+SELECT C.CustomerName, COUNT(O.OrderID) AS TotalOrders 
+FROM Customers C
+INNER JOIN Orders O ON C.CustomerID = O.CustomerID 
+GROUP BY C.CustomerName 
+HAVING COUNT(O.OrderID) > 3;
+
+-- 14. Wyświetl produkty droższe niż średnia cena
+SELECT ProductName, UnitPrice 
+FROM Products 
+WHERE UnitPrice > (
+    SELECT AVG(UnitPrice) 
+    FROM Products
+);
+
+-- 15. Posortuj zamówienia według kategorii opłat za wysyłkę
+SELECT OrderID, 
+    CASE 
+        WHEN Freight > 100 THEN 'High Freight'
+        WHEN Freight BETWEEN 50 AND 100 THEN 'Medium Freight'
+        ELSE 'Low Freight'
+    END AS FreightCategory 
+FROM Orders 
+ORDER BY Freight DESC;
