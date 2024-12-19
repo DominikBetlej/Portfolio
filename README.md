@@ -7,6 +7,7 @@ Jestem Dominik – tester manualny oprogramowania z doświadczeniem w tworzeniu 
 - **Przypadki i scenariusze testowe** – dla siebie rozpisuję w Excelu. W firmie opracowywałem je w programie Confluence.
 - **Dokumentację techniczną** – przykład instrukcji obsługi oprogramowania w pliku Word.
 - **Zgłoszenia błędów** – zarządzane przy użyciu Jira.
+- **Przykładowe zapytania SQL** – korzystając z bazy danych dostępnej na kursie.
 
 ## Trochę o mnie 🧑‍💻
 
