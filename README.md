@@ -1,6 +1,7 @@
 Cześć, jestem Dominik – zapraszam do mojego portfolio! 😊
 
-Znajdziesz tutaj przykłady mojej pracy jako tester manualny oprogramowania. Na co dzień korzystam z narzędzi takich jak Confluence, Jira, GitLab, SQL i Chrome DevTools. Oto, co przygotowałem w portfolio:
+Znajdziesz tutaj przykłady mojej pracy jako tester manualny oprogramowania. 
+Na co dzień korzystam z narzędzi takich jak Confluence, Jira, GitLab, SQL i Chrome DevTools. Oto, co przygotowałem w portfolio:
 
 Przypadki i scenariusze testowe – tworzę je i dokumentuję w Confluence, wspierając zespoły w identyfikacji i rozwiązywaniu problemów.
 Zgłaszanie błędów – zarządzam nimi w Jira, dokładnie dokumentując oraz monitorując postępy ich naprawy.
