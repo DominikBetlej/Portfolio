@@ -6,6 +6,7 @@ Przypadki i scenariusze testowe – tworzę je i dokumentuję w Confluence, wspi
 Zgłaszanie błędów – zarządzam nimi w Jira, dokładnie dokumentując oraz monitorując postępy ich naprawy.
 Dokumentacja techniczna – w portfolio znajdziesz przykład szczegółowej instrukcji obsługi oprogramowania, którą opracowałem, dbając o jej przejrzystość i funkcjonalność.
 SQL – analizuję bazy danych i tworzę zapytania z wykorzystaniem narzędzi takich jak PostgreSQL i DBeaver.
+
 Jestem w trakcie rozwijania umiejętności w automatyzacji testów, szczególnie w obszarze Cypress i JavaScript, z zamiarem dalszego poszerzania kompetencji w tym kierunku.
 
 Zapraszam do zapoznania się z moimi projektami i dokumentacją! 💻
