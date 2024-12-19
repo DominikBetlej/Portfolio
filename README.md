@@ -4,8 +4,8 @@ Jestem Dominik – tester manualny oprogramowania z doświadczeniem w tworzeniu 
 
 ## Co znajdziesz w moim portfolio?
 
-- **Przypadki i scenariusze testowe** – opracowane w Confluence.
-- **Dokumentację techniczną** – przykład instrukcji obsługi oprogramowania.
+- **Przypadki i scenariusze testowe** – dla siebie rozpisuję w Excelu. W firmie opracowywałem je w programie Confluence.
+- **Dokumentację techniczną** – przykład instrukcji obsługi oprogramowania w pliku Word.
 - **Zgłoszenia błędów** – zarządzane przy użyciu Jira.
 
 ## Trochę o mnie 🧑‍💻
