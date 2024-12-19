@@ -10,7 +10,7 @@ Jestem Dominik – tester manualny oprogramowania z doświadczeniem w tworzeniu 
 
 ## Trochę o mnie 🧑‍💻
 
-Obecnie pracuję jako tester manualny. Wykorzystuję GitLab do organizacji przypadków testowych i stale rozwijam swoje umiejętności w automatyzacji testów. Planuję w przyszłości rozszerzyć swoje kompetencje w zakresie testów E2E z użyciem narzędzi takich jak Cypress.
+Obecnie pracuję jako tester manualny. Wykorzystuję GitLab do organizacji przypadków testowych i stale rozwijam swoje umiejętności w automatyzacji testów. Planuję w przyszłości rozszerzyć swoje kompetencje w zakresie testów E2E z użyciem narzędzi takich jak Cypress+ JavaScript.
 
 ## Narzędzia, które znam i używam 🔧
 
@@ -19,6 +19,6 @@ Obecnie pracuję jako tester manualny. Wykorzystuję GitLab do organizacji przyp
 - **GitLab** – do organizacji przypadków testowych.
 - **SQL** – podstawowa znajomość PostgreSQL.
 - **Cypress** – w trakcie nauki automatyzacji.
-- **Postman** – podstawowa wiedza o testowaniu API (obecnie wykluczone z portfolio).
+- **Postman** – podstawowa wiedza o testowaniu API.
 
 ## Zapraszam do zapoznania się z moimi pracami! 🚀
