@@ -8,6 +8,7 @@ Jestem Dominik – tester manualny oprogramowania z doświadczeniem w tworzeniu 
 - **Dokumentację techniczną** – przykład instrukcji obsługi oprogramowania w pliku Word.
 - **Zgłoszenia błędów** – zarządzane przy użyciu Jira.
 - **Przykładowe zapytania SQL** - napisane na podstawie bazy danych dostępnej w internecie.
+- **Bot aplikacyjny Selenium+Python**-Program automatycznie dodaje do ulubionych oferty pracy na podstawie zadanych kryteriów, takich jak stanowisko i lokalizacja. Używając Pythona i Selenium, przeszukuje stronę rekrutacyjną, filtruje oferty (np. po wynagrodzeniu i pracy zdalnej), a następnie aplikuję na nie, zapisując wyniki w pliku CSV. Skrypt obsługuje logowanie, zarządza sesjami przeglądarki oraz rejestruje wszystkie działania w logach, co umożliwia łatwe monitorowanie postępów
 
 ## Trochę o mnie 🧑‍💻
 
