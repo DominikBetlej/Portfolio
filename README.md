@@ -4,15 +4,11 @@ Jestem Dominik – tester manualny oprogramowania z doświadczeniem w tworzeniu 
 
 ## Co znajdziesz w moim portfolio?
 
-- **Przypadki i scenariusze testowe** – dla siebie rozpisuję w Excelu. W firmie opracowywałem je w programie Confluence.
-- **Dokumentację techniczną** – przykład instrukcji obsługi oprogramowania w pliku Word.
-- **Zgłoszenia błędów** – zarządzane przy użyciu Jira.
-- **Przykładowe zapytania SQL** - napisane na podstawie bazy danych dostępnej w internecie.
-- **Bot aplikacyjny Selenium+Python**-Program automatycznie dodaje do ulubionych oferty pracy na podstawie zadanych kryteriów, takich jak stanowisko i lokalizacja. Używając Pythona i Selenium, przeszukuje stronę rekrutacyjną, filtruje oferty (np. po wynagrodzeniu i pracy zdalnej), a następnie aplikuję na nie, zapisując wyniki w pliku CSV. Skrypt obsługuje logowanie, zarządza sesjami przeglądarki oraz rejestruje wszystkie działania w logach, co umożliwia łatwe monitorowanie postępów
+**Bot aplikacyjny Selenium+Python**-Program automatycznie dodaje do ulubionych oferty pracy na podstawie zadanych kryteriów, takich jak stanowisko i lokalizacja. Używając Pythona i Selenium, przeszukuje stronę rekrutacyjną, filtruje oferty (np. po wynagrodzeniu i pracy zdalnej), a następnie aplikuję na nie, zapisując wyniki w pliku CSV. Skrypt obsługuje logowanie, zarządza sesjami przeglądarki oraz rejestruje wszystkie działania w logach, co umożliwia łatwe monitorowanie postępów
 
 ## Trochę o mnie 🧑‍💻
 
-Obecnie pracuję jako tester manualny. Wykorzystuję GitLab do organizacji przypadków testowych i stale rozwijam swoje umiejętności w automatyzacji testów. Planuję w przyszłości rozszerzyć swoje kompetencje w zakresie testów E2E z użyciem narzędzi takich jak Cypress+ JavaScript.
+Obecnie pracuję jako tester manualny. Wykorzystuję GitLab do organizacji przypadków testowych i stale rozwijam swoje umiejętności w automatyzacji testów. Planuję w przyszłości rozszerzyć swoje kompetencje w zakresie testów E2E z użyciem narzędzi takich jak Python+Selenium.
 
 ## Narzędzia, które znam i używam 🔧
 
