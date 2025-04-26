@@ -1,0 +1,56 @@
+# Automatyczne dodawanie ofert do ulubionych na podstawie ustawionych filtrów.
+
+Ten skrypt loguje się na wybraną stronę z ofertami pracy i automatycznie zapisuje interesujące ogłoszenia do pliku CSV.
+
+---
+
+## ✅ Wymagania
+
+- Python 3.8 lub nowszy
+- Google Chrome zainstalowany w systemie
+
+---
+
+## 📦 Instalacja
+
+1. **Sklonuj repozytorium lub pobierz pliki**
+2. **Zainstaluj wymagane biblioteki:**
+
+```bash
+pip install -r requirements.txt
+```
+
+3. **Utwórz plik `.env` i uzupełnij go danymi:**
+
+```env
+EMAIL=totaljobs@interia.eu
+PASSWORD=Totaljobs1@!
+JOB_TITLES=QA Engineer,Tester,Manual Tester
+LOCATION=Remote
+MAX_APPLICATIONS_PER_SESSION=5
+MAX_APPLICATIONS=15
+HEADLESS=false
+INCOGNITO=true
+LOGIN_URL=https://www.totaljobs.com/
+```
+
+---
+
+## 🚀 Uruchomienie
+
+```bash
+python main.py
+```
+
+---
+
+## 📝 Informacje dodatkowe
+
+- Aplikacje są zapisywane w pliku `applications.csv`
+- Logi działania znajdują się w pliku `job_applications.log`
+
+---
+
+## ❗ Uwaga
+
+Korzystanie z automatyzacji może naruszać regulamin serwisów – używaj z rozwagą.
