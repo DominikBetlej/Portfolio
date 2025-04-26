@@ -19,7 +19,8 @@ Obecnie pracuję jako tester manualny. Wykorzystuję GitLab do organizacji przyp
 - **Jira** – do zarządzania zgłoszeniami.
 - **GitLab** – do organizacji przypadków testowych.
 - **SQL** – podstawowa znajomość PostgreSQL.
-- **Cypress** – w trakcie nauki automatyzacji.
+- **Python**- w trakcie nauki automatyzacji.
+- **Selenium** – w trakcie nauki automatyzacji.
 - **Postman** – podstawowa wiedza o testowaniu API.
 
 ## Zapraszam do zapoznania się z moimi pracami! 🚀
